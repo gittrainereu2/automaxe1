@@ -41,4 +41,4 @@ jobs:
           id 
           cat /etc/os-release 
           ps aux 
-          docker ps 
+  
